@@ -215,18 +215,18 @@
 	<classpathentry kind="src" path="specialpurpose/webpos/src"/>
 	<classpathentry kind="src" path="specialpurpose/workflow/src"/>
 	<classpathentry exported="true" kind="con" path="GROOVY_DSL_SUPPORT"/>
-	<classpathentry kind="lib" path="C:/Users/Osee/Documents/Parshva/apache-ofbiz-12.04.02/framework/entity/lib/jdbc/derby-10.8.2.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Osee/Documents/Parshva/apache-ofbiz-12.04.02/framework/entity/lib/jdbc/derbytools-10.8.2.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Osee/Documents/Parshva/apache-ofbiz-12.04.02/framework/entity/lib/jdbc/mysql-connector-java-5.1.30-bin.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Osee/Documents/Parshva/apache-ofbiz-12.04.02/framework/entity/lib/jdbc/postgresql-9.3-1101.jdbc4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Osee/Documents/Parshva/apache-ofbiz-12.04.02/framework/entity/lib/jdbc/postgresql-9.3-1101.jdbc41.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Osee/Documents/Parshva/apache-ofbiz-12.04.02/framework/entity/lib/jdbc/sqljdbc4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Osee/Documents/Parshva/apache-ofbiz-12.04.02/framework/catalina/lib/ecj-4.2.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Osee/Documents/Parshva/apache-ofbiz-12.04.02/framework/catalina/lib/tomcat-7.0.42-catalina-ha.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Osee/Documents/Parshva/apache-ofbiz-12.04.02/framework/catalina/lib/tomcat-7.0.42-catalina-tribes.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Osee/Documents/Parshva/apache-ofbiz-12.04.02/framework/catalina/lib/tomcat-7.0.42-tomcat-embed-core.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Osee/Documents/Parshva/apache-ofbiz-12.04.02/framework/catalina/lib/tomcat-7.0.42-tomcat-embed-jasper.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Osee/Documents/Parshva/apache-ofbiz-12.04.02/framework/catalina/lib/tomcat-7.0.42-tomcat-embed-logging-log4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Osee/Documents/Parshva/Build/ofbiz-12.04.02/framework/entity/lib/jdbc/derby-10.8.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Osee/Documents/Parshva/Build/ofbiz-12.04.02/framework/entity/lib/jdbc/derbytools-10.8.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Osee/Documents/Parshva/Build/ofbiz-12.04.02/framework/entity/lib/jdbc/mysql-connector-java-5.1.30-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Osee/Documents/Parshva/Build/ofbiz-12.04.02/framework/entity/lib/jdbc/postgresql-9.3-1101.jdbc4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Osee/Documents/Parshva/Build/ofbiz-12.04.02/framework/entity/lib/jdbc/postgresql-9.3-1101.jdbc41.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Osee/Documents/Parshva/Build/ofbiz-12.04.02/framework/entity/lib/jdbc/Microsoft JDBC Driver 4.0 for SQL Server/sqljdbc_4.0/enu/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Osee/Documents/Parshva/Build/ofbiz-12.04.02/framework/catalina/lib/ecj-4.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Osee/Documents/Parshva/Build/ofbiz-12.04.02/framework/catalina/lib/tomcat-7.0.42-catalina-ha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Osee/Documents/Parshva/Build/ofbiz-12.04.02/framework/catalina/lib/tomcat-7.0.42-catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Osee/Documents/Parshva/Build/ofbiz-12.04.02/framework/catalina/lib/tomcat-7.0.42-tomcat-embed-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Osee/Documents/Parshva/Build/ofbiz-12.04.02/framework/catalina/lib/tomcat-7.0.42-tomcat-embed-jasper.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Osee/Documents/Parshva/Build/ofbiz-12.04.02/framework/catalina/lib/tomcat-7.0.42-tomcat-embed-logging-log4j.jar"/>
 	<classpathentry kind="lib" path="framework/base/config"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
